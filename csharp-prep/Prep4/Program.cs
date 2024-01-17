@@ -12,7 +12,7 @@ class Program
         List<int> numbers = new List<int>();
         int input;
 
-        Console.WriteLine("Enter a list of numbers, type 0 when finished.");
+        Console.WriteLine("Enter a list of numbers, type 0 when finished. ");
 
         do
         {
